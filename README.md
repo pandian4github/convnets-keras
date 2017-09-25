@@ -24,7 +24,7 @@ The only dependencies are h5py, Theano and Keras. Run the following commands
 ```
 pip install --user cython h5py
 pip install --user git+https://github.com/Theano/Theano.git
-pip install --user git+https://github.com/fchollet/keras.git
+pip install --user git+https://github.com/fchollet/keras.git@2.0.6
 ```
 
 Then, you need to install the convnetskeras module :
